@@ -1,4 +1,4 @@
-RL MARIO AGENT
+RL MARIO AGENT (Project under Vision and Language Group, IIT Roorkee)
 ------------
 
 This project aims to build a robust RL agent that can make it through the first level of Super Mario Bros. Q-Learning poses an idea of assessing the quality of an action that is taken to move to a state rather than determining the possible value of the state (value footprint) being moved to. I've employed 3 methods of updating Q-values (ie training Mario), namely:
